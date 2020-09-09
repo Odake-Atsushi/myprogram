@@ -1,0 +1,10 @@
+my-environment.sh の中の必要なところを直す．
+Debian buster 用に作ったからその辺りをを中心に
+修正する．
+
+sway-config.config と
+my-environment.sh を同じディレクトリ内に格納する．
+
+su -
+bash my-environment.sh
+を実行する.
