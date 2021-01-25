@@ -39,7 +39,7 @@ apt -y install --no-install-recommends \
 	fontconfig nnn wofi htop bash-completion deborphan \
 	i3status manpages-ja manpages-ja-dev wdisplays
 apt -y install \
-	man fcitx-mozc fcitx5 pulseaudio pamix network-manager \
+	man fcitx5-mozc fcitx5 pulseaudio pamix network-manager \
 	bluez brightnessctl #live-build task-japanese
 apt -y purge im-config
 
